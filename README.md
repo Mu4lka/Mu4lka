@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mu4lka&theme=solarized_dark"/>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mu4lka&theme=algolia"/>
 </p>
 
 <p align="center">
